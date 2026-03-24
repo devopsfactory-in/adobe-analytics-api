@@ -15,6 +15,7 @@ class ReportSuite:
 
     def create(self,access_token,data):
         session = requests.post(self.resturl+self.createurl+self.accesstokenurl+access_token,data=data)
+        print(accesstokenurl)
         return session.text;
 
 
