@@ -3,7 +3,7 @@ Adobe provides APIs for the Adobe Experience Cloud, here we are using Adobe Anal
 
 ## Prerequisites
 
-Before you set up your OAuth client, make sure you
+Before you set up your OAuth client, make sure you please note that the APi might change
 
     - Have valid Adobe ID credentials.
 
