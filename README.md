@@ -15,7 +15,7 @@ Before you set up your OAuth client, make sure you
 * client_secret - The client secret is defined when you register your app.
 
 
-## To run locally
+## To run locally without docker
 
 * Configure client_id and client_secret in 'resourcer/configureparams.ini'
 
