@@ -17,7 +17,7 @@ Before you set up your OAuth client, make sure you please note that the APi migh
 
 ## To run locally without docker
 
-* Configure client_id and client_secret in 'resourcer/configureparams.ini'. Always check latest api beofre move to production
+* Configure client_id and client_secret in 'resourcer/configureparams.ini'. Always check latest api beofre move to production. Be carefull
 
 ```
 client_id=<clientid>
