@@ -15,7 +15,7 @@ Before you set up your OAuth client, make sure you please note that the APi migh
 * client_secret - The client secret is defined when you register your app.
 
 
-## To run locally without docker
+## To run locally without docker testing workflow
 
 * Configure client_id and client_secret in 'resourcer/configureparams.ini'. Always check latest api beofre move to production. Be carefull
 
