@@ -11,6 +11,7 @@ class ReportSuite:
         self.getsettingsurl='ReportSuite.GetSettings'
         #discover enabled is same as adhoc enable
         self.savediscoverenabledurl='ReportSuite.SaveDiscoverEnabled'
+        print(accesstoken)
        
 
     def create(self,access_token,data):
