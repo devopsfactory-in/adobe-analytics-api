@@ -25,7 +25,7 @@ config.read('resources/configparams.ini')
 
 clientid=config['DEFAULT']['client_id']
 clientsecret=config['DEFAULT']['client_secret']
-clientsecret=1243565675679
+clientsecret=1243565675679907
 
   
 def createnewreportsuite():
