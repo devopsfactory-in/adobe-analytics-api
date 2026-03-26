@@ -5,7 +5,7 @@ Adobe provides APIs for the Adobe Experience Cloud, here we are using Adobe Anal
 
 Before you set up your OAuth client, make sure you please note that the APi might change. This is a test commit.
 
-    - Have valid Adobe ID credentials.
+    - Have valid Adobe ID credentials. test commit
 
     - Have access to the Marketing Cloud.
 
