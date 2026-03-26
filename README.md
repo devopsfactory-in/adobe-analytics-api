@@ -24,7 +24,7 @@ client_id=<clientid>
 client_secret=<clientsecret>
 ```
 
-*  To create a new report suite, just change the duplicate_rsid of'resource/CreateRS.json' with valid reportsuiteid (The neewly created reportsuite is based on the duplicate_rsid, all evars, events, props of duplicate_rsid shoudl be copied to the new reportsuite). Then execute the following script, test
+*  To create a new report suite, just change the duplicate_rsid of'resource/CreateRS.json' with valid reportsuiteid (The neewly created reportsuite is based on the duplicate_rsid, all evars, events, props of duplicate_rsid shoudl be copied to the new reportsuite). Then execute the following script, test read me comment updated
 
 ```
  python AnalyticsAPI.py --create --rs=<newreportsuitename>
