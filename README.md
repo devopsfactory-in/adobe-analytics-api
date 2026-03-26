@@ -12,7 +12,7 @@ Before you set up your OAuth client, make sure you please note that the APi migh
  For this example we are using Client Credentials Grant method, n8n you can find more details here https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/authentication/auth_client_credentials.md
 
 * client_id - The client ID is defined when you register your app.
-* client_secret - The client secret is defined when you register your app.
+* client_secret - The client secret is defined when you register your app. test
 
 
 ## To run locally without docker testing workflow
