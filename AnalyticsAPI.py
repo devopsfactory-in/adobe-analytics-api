@@ -19,6 +19,7 @@ args=parser.parse_args()
 rsid=args.rsid
 create=args.create
 update=args.update
+privatekey=860898
 
 config = configparser.ConfigParser()
 config.read('resources/configparams.ini')
